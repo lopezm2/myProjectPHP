@@ -1,2 +1,2 @@
 # myProjectPHP
-Throughout the course of a semester, I was tasked with creating and adding to this website using PHP and SQL.
+Throughout the course of a semester, I was tasked with creating and adding to this website using PHP and SQL. The course was taken online because of the pandemic, and it was all of our first times online, including the professor's, so the website was never completely finished, but is mostly done. The website allows the user to access and manage a technical support site. Features include being able to add, remove, and edit products, technicians, and customers. User is also able to search through customers, create incidents for customers, lg themselves in, and register new products.
